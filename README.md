@@ -25,9 +25,17 @@ RMS formula: <br/> <img width="200" alt="Screenshot 2024-11-13 at 11 06 37 AM"
 Currently, commenting/uncommenting the function calls in main will determine if visualizations of the other song characteristics are outputted. Characteristics that can be visualized (further analysis can be performed):
 
 - Soundwave amplitude
+<br/> ![CanoninD soundwave_amplitude_visualization](https://github.com/user-attachments/assets/827b6769-0997-40b6-b070-5efdd2f5cf1c)
 - Soundwave frequency
+<br/> ![CanoninD soundwave_log-frequency_visualization](https://github.com/user-attachments/assets/e4ffbe89-98aa-43e6-b4d8-1d3a6bc464bf)
 - Frequency of songnotes
+<br/>![CanoninD song_notes](https://github.com/user-attachments/assets/65a26c29-354a-49d8-86ee-dabb34ccd828)
 - Most important songnotes
+<br/>![CanoninD important_song_notes](https://github.com/user-attachments/assets/f509844c-6f3f-47e9-b300-fdb400818f35)
 - Tempo
 - BPM
 - Instrument analysis: harmonic and percussive
+<br/>![CanoninD harmonic_instrument_soundwaves](https://github.com/user-attachments/assets/41e608ad-6d7c-414b-adab-72ab055bc257)
+<br/>![CanoninD percussive_instrument_soundwaves](https://github.com/user-attachments/assets/b6a5729c-b234-43c1-982c-8efa9ee45ce0)
+
+
