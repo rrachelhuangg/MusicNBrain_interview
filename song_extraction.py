@@ -1,5 +1,4 @@
 """CLI to extract the most interesting 5 seconds from a song"""
-#show examples - more examples and include example outputs in ReadMe
 import librosa
 import datetime
 import sounddevice
