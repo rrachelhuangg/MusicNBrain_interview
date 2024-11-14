@@ -18,7 +18,7 @@ RMS formula: <br/> <img width="200" alt="Screenshot 2024-11-13 at 11 06 37 AM"
 
 ### Testing the 5 second extraction
 - Example Click commands for testing through the command line (the order of Click arguments does not matter):
-  - `python song_extraction.py extract_five --song-file-name 'BillieJean.mp3'`
+  - `python song_extraction.py extract_five --song-file-name 'CanoninD.mp3'`
   
 ### Further analysis on other characteristics of the music can be performed
 
