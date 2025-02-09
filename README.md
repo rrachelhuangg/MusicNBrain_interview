@@ -1,4 +1,4 @@
-## Extracting the most significant 5 seconds from a song
+## CLI for "Extracting the most significant 5 seconds from a song" for MusicNBrain Music LLM internship interview - successful, but turned down because of other plans for the summer
 
 ### Description
 
